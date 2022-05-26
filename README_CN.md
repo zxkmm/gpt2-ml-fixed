@@ -8,7 +8,7 @@
 
 # **GPT2** for Multiple Languages
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/zxkmm/gpt2-ml-fixed/blob/master/gpt2_ml_fixed.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zxkmm/gpt2-ml-fixed/blob/master/gpt2_ml_fixed.ipynb)
 <!--
 [![GitHub](https://img.shields.io/github/license/imcaspar/gpt2-ml)](https://github.com/imcaspar/gpt2-ml)
 [![GitHub All Releases](https://img.shields.io/github/downloads/imcaspar/gpt2-ml/total)](https://github.com/imcaspar/gpt2-ml/releases)
