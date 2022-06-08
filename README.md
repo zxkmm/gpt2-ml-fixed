@@ -4,6 +4,7 @@ This fork fixed some download link and made the pre-trained sustainable which me
 # Credit
 ### [imcaspar](https://github.com/imcaspar)
 ### [gpt2-ml](https://github.com/imcaspar/gpt2-ml)
+### [memorz](https://github.com/mem0rz)
 # 
 <img src="./.github/logo.svg" width="480">
 
